@@ -23,9 +23,3 @@ body {
 
 
 
-html, body, #app, .fullHeight, .map {
-
-  height: 100%;
-
-}
-
