@@ -1,0 +1,31 @@
+html {
+
+  font-family: 'Roboto', sans-serif;
+
+}
+
+
+body {
+
+  font-size: 16px;
+
+  line-height: 20px;
+
+  margin: 0;
+
+  background-image: url(img/void.png);
+
+  background-color: black;
+
+  color: white;
+
+}
+
+
+
+html, body, #app, .fullHeight, .map {
+
+  height: 100%;
+
+}
+
